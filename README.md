@@ -42,6 +42,12 @@ Below is a snapshot of the AI Candidate Ranker in action:
 
 ---
 
+# AI-Candidate-Ranker-System
+
+### 🚀 [Live Demo - Click Here to Try the App](https://ai-candidate-ranker-system-ljpy3iwpj4nrqq59fp4bnh.streamlit.app/)
+
+---
+
 ##  Author
 **Zannatul Sanzida**
 Aspiring Data Scientist | Developer
