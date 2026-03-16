@@ -38,7 +38,7 @@ To run the app locally, follow these steps:
 ##  Project Visualization
 Below is a snapshot of the AI Candidate Ranker in action:
 
-![App Demo](https://raw.githubusercontent.com/ZannatUSM/AI-Candidate-Ranker-System/main/Screenshot%202026-03-17%20020456.png)
+![App Demo](app-visual.png)
 
 ---
 
